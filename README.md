@@ -78,27 +78,32 @@ The directory structure for my repo is as follows:
             |   |__ output
             |   │   └── repeat_donors.txt
             	├── test_DateAndZipCode
-            |    ├── input
-            |    │   └── itcont.txt
-            |    |── output
+            |   ├── input
+            |   │   └── percentile.txt
+            |   │   └── itcont.txt
+            |   |── output
             |        └── repeat_donors.txt
 	    	|── test_DifferentPercentileValue
-            |    ├── input
-            |    │   └── itcont.txt
-            |    |── output
+            |   ├── input
+            |   │   └── percentile.txt
+            |   │   └── itcont.txt
+            |   |── output
             |        └── repeat_donors.txt
 	    	├── test_DonationCounterAndDecimalAndMore
-            |    ├── input
-            |    │   └── itcont.txt
-            |    |── output
+            |   ├── input
+            |   │   └── percentile.txt
+            |   │   └── itcont.txt
+            |   |── output
             |        └── repeat_donors.txt
 	    	├── test_MissingFields
-            |    ├── input
-            |    │   └── itcont.txt
-            |    |── output
+            |   ├── input
+            |   │   └── percentile.txt
+            |   │   └── itcont.txt
+            |   |── output
             |        └── repeat_donors.txt
 	    	├── test_SameOrPreviousYear
-                 ├── input
-                 │   └── itcont.txt
-                 |── output
+            |   ├── input
+            |   │   └── percentile.txt
+            |   │   └── itcont.txt
+                |── output
                     └── repeat_donors.txt
