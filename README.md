@@ -11,12 +11,6 @@
 
 This repository contains solution to coding challenge donation-analytics.
 
-# Dependencies
-Python libraries:
-math,
-pandas,
-heapq,
-datetime
 
 # Approach
 
@@ -40,6 +34,15 @@ datetime
 16. Output dictionary maintains the cumulative TRANSACTION_AMT as its value.
 17. Nums dictionary contains the count for repeat donation count as its value.
 18. Finally, all this is orchestrated under donation_analysis() that takes care of streaming as well.
+
+
+# Dependencies
+Python libraries:
+math,
+pandas,
+heapq,
+datetime
+
 
 # Running the Code
 1. Python file donation-analytics.py needs to be run.
