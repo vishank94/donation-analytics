@@ -32,7 +32,7 @@ This repository contains solution to coding challenge donation-analytics.
 16. Two dictionaries are maintained to keep a record for all repeat donations and their count.
 17. These dictionaries contain combination of CMTE_ID, ZIP_CODE and TRANSACTION_YR as keys.
 16. Output dictionary maintains the cumulative TRANSACTION_AMT as its value.
-17. Nums dictionary contains the count for repeat donation count as its value.
+17. Nums dictionary contains the count for repeat donations as its value.
 18. Finally, all this is orchestrated under donation_analysis() that takes care of streaming as well.
 
 
