@@ -12,13 +12,13 @@ This repository contains solution to Insight Data Engineering Coding Challenge.
 
 # Dependencies
 Python libraries:
-math
-pandas
-heapq
+math,
+pandas,
+heapq,
 datetime
 
 
-#Running the Code
+# Running the Code
 1. Python file donation-analytics.py needs to be run.
 2. The input and output files' path is defined in donation_analysis() and main() methods.
 3. The repository directory structure given below must be maintained for the code to run successfully.
