@@ -77,7 +77,7 @@ The directory structure for my repo is as follows:
             |   │   └── itcont.txt
             |   |__ output
             |   │   └── repeat_donors.txt
-            	├── test_DateAndZipCode
+            ├── test_DateAndZipCode
             |   ├── input
             |   │   └── percentile.txt
             |   │   └── itcont.txt
