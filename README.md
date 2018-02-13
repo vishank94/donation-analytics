@@ -77,27 +77,27 @@ The directory structure for my repo is as follows:
             |   │   └── itcont.txt
             |   |__ output
             |   │   └── repeat_donors.txt
-            ├── test_DateAndZipCode
+            	├── test_DateAndZipCode
             |    ├── input
             |    │   └── itcont.txt
             |    |── output
             |        └── repeat_donors.txt
-	    |── test_DifferentPercentileValue
+	    	|── test_DifferentPercentileValue
             |    ├── input
             |    │   └── itcont.txt
             |    |── output
             |        └── repeat_donors.txt
-	    ├── test_DonationCounterAndDecimalAndMore
+	    	├── test_DonationCounterAndDecimalAndMore
             |    ├── input
             |    │   └── itcont.txt
             |    |── output
             |        └── repeat_donors.txt
-	    ├── test_MissingFields
+	    	├── test_MissingFields
             |    ├── input
             |    │   └── itcont.txt
             |    |── output
             |        └── repeat_donors.txt
-	    ├── test_SameOrPreviousYear
+	    	├── test_SameOrPreviousYear
                  ├── input
                  │   └── itcont.txt
                  |── output
